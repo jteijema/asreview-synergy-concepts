@@ -6,6 +6,9 @@ This project was rendered from the Makita-basic template. See [asreview/asreview
 
 The template is described as: 'Basic simulation for N runs'.
 
+![](https://github.com/jteijema/asreview-synergy-concepts/blob/main/output/figures/output.png)
+
+
 ## Installation
 
 This project depends on Python 3.7 or later (python.org/download), and [ASReview](https://asreview.nl/download/). Install the following dependencies to run the simulation and analysis in this project.
